@@ -3,3 +3,4 @@
 - Maito
 - Muutama ölppönen
 - No toinen kalja
+- Ketsuppi
