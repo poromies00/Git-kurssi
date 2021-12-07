@@ -5,3 +5,4 @@
 - No toinen kalja
 - Ketsuppi
 - Vettä
+- pommi
